@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Pietro228
-- 👀 I’m interested in programming apps, games and I like gaming.
+👋 Hi, I’m @Pietro228
+======================
+
+- 👀 I’m interested in programming apps, games, webs and I like gaming.
 - 🌱 I’m currently learning C and C#.
 - 💞️ I’m looking to collaborate on our FPS game.
 - 📫 How to reach me: bxc@post.cz
