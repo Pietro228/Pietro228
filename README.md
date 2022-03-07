@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Pietro228
+# 👋 Hi, I’m @Pietro228
 
 - 👀 I’m interested in programming apps, games, webs and I like gaming.
 - 🌱 I’m currently learning C and C#.
