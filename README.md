@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @Pietro228
 
 - 👀 I’m interested in programming apps, games, webs and I like gaming.
-- 🌱 I’m currently learning C and C#.
-- 💞️ I’m looking to collaborate on our FPS game.
+- I have a high knowledge of C#. Other programming languages that I programme in are C, C++, Java and JavaScript.
 - 📫 How to reach me: peter@bexcool.com
 
 <!---
